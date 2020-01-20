@@ -1,4 +1,4 @@
-# Lottery exercise (React JS) :space_invader:
+# Lottery exercise (React JS) :notebook:
 
 ## :space_invader: Technologies used
 This project was developed using this technologies:
