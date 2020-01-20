@@ -6,7 +6,7 @@ This project was developed using this technologies:
 
 ## :computer: Description
 
-Simple Lottery app ramdonly  select  6 balls by default from 0 to 40 can be modified bya props  the title of the component, the quantity of balls and the maximum number of each ball
+Simple Lottery app randomly select 6 balls by default from 0 to 40 can be modified by props the title of the component, the quantity of balls and the maximum number of each ball.
 
 ## :memo: License
 
